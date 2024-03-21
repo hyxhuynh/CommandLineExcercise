@@ -1,0 +1,14 @@
+C:\HyHuynh\TrueCoders\repos\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+C:\HyHuynh\TrueCoders\repos\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+C:\HyHuynh\TrueCoders\repos\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+C:\HyHuynh\TrueCoders\repos\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+C:\HyHuynh\TrueCoders\repos\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+C:\HyHuynh\TrueCoders\repos\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\HyHuynh\TrueCoders\repos\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+C:\HyHuynh\TrueCoders\repos\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+C:\HyHuynh\TrueCoders\repos\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\HyHuynh\TrueCoders\repos\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+C:\HyHuynh\TrueCoders\repos\HelloWorld\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+C:\HyHuynh\TrueCoders\repos\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+C:\HyHuynh\TrueCoders\repos\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+C:\HyHuynh\TrueCoders\repos\HelloWorld\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
